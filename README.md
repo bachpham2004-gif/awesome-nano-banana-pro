@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# Awesome Nano-Banana-Pro Images ✨
+# BP - Awesome Nano-Banana-Pro Images ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 <a href="https://github.com/muset-ai/awesome-nano-banana-pro/stargazers">
